@@ -1,0 +1,100 @@
+body {
+    margin:0;
+    padding:0;
+    height:1080px;
+    background: url('img/man-2604149_1920.jpg');
+}
+.logo{
+    color: white;
+    display: inline;
+    float:left;
+    margin:20px;
+   
+}
+.home {
+    margin-left: 20%;
+    margin-top:30px;
+   display: inline-block;
+}
+.call {
+   /* position: absolute;
+    right:34px;
+    top:0px;*/
+    float:right;
+    margin: 20px;
+    margin-top:30px;
+    display:inline;
+    
+}
+.logo img{
+    width: 136px;
+}
+.logo .clear{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar li a{
+    color: white;
+    font-size: 20px;
+    padding-right: 40px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar li a:hover{
+    text-decoration: underline;
+    background-color:none;
+    color:whitesmoke;
+}
+.contact li {
+    display: inline-block;
+}
+.contact li a{
+    border: 2px solid black;
+    border-radius: 6px;
+    margin:10px;
+    margin-left:5px;
+    margin-right:25px;
+    padding:10px;
+    color:white;
+    text-decoration: none;
+    font-size:18px;
+}
+.contact li a:hover{
+    text-decoration: underline;
+    color:whitesmoke;
+}
+.container {
+    border: 2px solid whitesmoke;
+    margin-top: 100px;
+    margin-left:50px;
+    width:25%;
+    padding:55px;
+    border-radius: 10px;
+
+}
+.container h1{
+    color: whitesmoke;
+    text-align: center;
+}
+.formgroup input {
+    display: block;
+    text-align: center;
+    width:348px;
+    padding:9px;
+    font-size: 16px;
+    border:2px solid black;
+    margin:7px auto;
+    border-radius: 10px;
+}
+.container .btn{
+    display: block;
+    width:93%;
+    margin:auto;
+    padding:7px;
+    border-radius: 10px;
+}
