@@ -7,8 +7,11 @@ The Fitness Freak website is a static web page designed to promote a gym in Indi
 ## Features
 
 Responsive Design: Adapts to different screen sizes for an optimal viewing experience on all devices.
+
 Navigation Bar: Provides easy access to different sections of the site including Home, About Us, Fitness Calculator, and Contact Us.
+
 Contact Information: Includes phone and email contact options.
+
 Join Form: Allows users to submit their details to join the gym.
 
 ## Technologies Used
